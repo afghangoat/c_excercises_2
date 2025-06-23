@@ -1,0 +1,1 @@
+//A short és a signed char is egy időután túlcsordulást okoz, mert annyiszor növelték az értékét
